@@ -132,6 +132,9 @@ ggsave(
   dpi = 300
 )
 
+#Arrumar tamanhos e legendas !
+
+
 ###### 2 Sem facet######
 
 familias_agrupadas <- familias_genes %>%
